@@ -15,3 +15,7 @@ BusinessCard
 BirthdayCard
 ![image](https://github.com/AnnaZhuk002/AndroidUnit1/assets/112899612/a7377c45-4e51-4d2a-b005-880ad4c7a8e7)
 
+
+
+Результаты Квиза
+![image](https://github.com/AnnaZhuk002/AndroidUnit1/assets/112899612/dbeab915-3fe8-4122-a070-b54f01d9b76c)
